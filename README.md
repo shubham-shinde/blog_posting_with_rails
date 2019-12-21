@@ -1,4 +1,5 @@
-# README
+# BLOG_POSTING_WITH_RAILS
+A Blog Posting web application for posting blogs and adding comments with authentication
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
